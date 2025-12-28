@@ -45,6 +45,7 @@ Procedure:
 
 # OUTPUT: 
 
+[manoj - ex 3.pdf](https://github.com/user-attachments/files/24360357/manoj.-.ex.3.pdf)
 
 # RESULT: The various types of Prompts are executed successfully with generated the report.
 
